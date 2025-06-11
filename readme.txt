@@ -56,7 +56,7 @@
 
 ## Prerequisites
 
-1. **Web Server:** WAMP Server (or XAMPP) installed on Windows.  
+1. **Web Server:** WAMP Server (ohttps://github.com/AthulKrishnaGr XAMPP) installed on Windows.  
 2. **PHP:** Version 7.x or above.  
 3. **MySQL:** Version 5.7 or above (ensure the `mysqli` extension is enabled).  
 4. **Browser:** Chrome, Firefox, or any modern browser.  
@@ -67,7 +67,7 @@
 
 1. **Clone or Download**  
    ```bash
-   git clone https://github.com/YourUsername/PANDTRACK.git
+   git clone https://github.com/AthulKrishnaG/PANDTRACK.git
 Or download and extract the ZIP into your web server’s document root (e.g., C:\wamp64\www\).
 2.Move Files
 oEnsure the entire project folder (PANDTRACK/) is inside www/ (for WAMP) or htdocs/ (for XAMPP).
