@@ -121,7 +121,7 @@
 
                       <!-- Actions -->
                       <div class="form-actions center">
-                        <button type="button" class="btn btn-warning mr-1" onclick="window.location.href='index.php'">
+                        <button type="reset" class="btn btn-warning mr-1">
                           <i class="ft-x"></i> Cancel
                         </button>
                         <button type="submit" id="btncontactadd" name="btncontactadd" class="btn btn-info">
